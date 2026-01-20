@@ -1,0 +1,26 @@
+{
+  "polls": [
+    {
+      "id": "41",
+      "question": "Who is the greatest person?",
+      "totalCount": 25,
+      "options": [
+        {
+          "id": 83,
+          "title": "Rupesh Ranjan",
+          "votes": 12
+        },
+        {
+          "id": 84,
+          "title": "Me",
+          "votes": 4
+        },
+        {
+          "id": 85,
+          "title": "All of the above",
+          "votes": 9
+        }
+      ]
+    }
+  ]
+}
